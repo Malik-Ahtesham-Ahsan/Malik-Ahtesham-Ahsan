@@ -1,27 +1,181 @@
+<body>
+  <div align="center">
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed👋<a href="#"></a></h1>
+  </div>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;React+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+    </a>
+  </p>
 
-[![MasterHead](https://github.com/MightyCoderX/MightyCoderX/blob/master/images/fullstack-developer.svg)](https://Malik-Ahtesham-Ahsan.io)
-<h1 align="center">Hi 👋, I'm Ahtesham Ahsan</h1>
-<h3 align="center">A passionate FullStack Mern developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <h2>My Python Development Course</h2>
+  <ul>
+    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
+  </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malik-ahtesham-ahsan&label=Profile%20views&color=0e75b6&style=flat" alt="malik-ahtesham-ahsan" /> </p>
+  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <ul>
+    <li>🔭 I’m currently working as a Backend Engineer.</li>
+    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
+    <li>👯 I’m looking to collaborate with other content creators and developers.</li>
+    <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
+    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>💎 If you are a Tech boy/girl let's get connected</li>
+  </ul>
+	
+<div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
+	
+<h2>Tech Stack</h2>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Gym Managment**
-
-- 📫 How to reach me **malikahtesham661@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/malik ahtesham ahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik ahtesham ahsan" height="30" width="40" /></a>
+<table>
+<tr>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+</td>
+</tr>
+<tr>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="70">
+</td>
+<td align='center'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
+</td>
+<td align='center'>
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+</td>
+</tr>
+<tr>
+<td align='center' width="200">
+<img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
+</td>
+<td align='center' width="200">
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
+</td>
+<td align='center' width="200">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+</td>
+</tr>
+<tr>	
+<td align='center' width="200">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
+</td>
+</tr>
+<tr>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="90">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+</td>
+<td align='center'>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+</td>
+</tr>
+</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
+  </tr>
+</table>
+	
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malik-ahtesham-ahsan&show_icons=true&locale=en&layout=compact" alt="malik-ahtesham-ahsan" /></p>
+	
+## Personal Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malik-ahtesham-ahsan&show_icons=true&locale=en" alt="malik-ahtesham-ahsan" /></p>
+| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
+| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
+| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
+| [**Github Profile**](https://github.com/saadfareed/saadfareed) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat) |
+| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
+| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malik-ahtesham-ahsan&" alt="malik-ahtesham-ahsan" /></p>
+[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+
+
+## ⚡️Github Contributions
+
+<h4 align="center">Isometric view of contributions in the last year</h4>
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
+  </a>
+</p>
+
+
+## 🚀Github Metrics
+
+<p align="center">
+    <img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+</p>
+    
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<br>
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
+</p>
+		
+![](https://hit.yhype.me/github/profile?user_id=50300882)
