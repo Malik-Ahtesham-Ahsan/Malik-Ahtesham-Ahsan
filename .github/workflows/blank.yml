@@ -22,4 +22,4 @@ jobs:
           git config user.email 2020cs661@student.uet.edu.pk
           git add -A .
           git commit -m "Personal 3d Contributions images updated"
-          git push
+          git push
