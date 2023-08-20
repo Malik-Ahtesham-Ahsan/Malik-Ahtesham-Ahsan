@@ -8,22 +8,19 @@
     </a>
   </p>
 
-  <h2>My Python Development Course</h2>
-  <ul>
-    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
-  </ul>
+ 
 
-  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <h3>I'm a Mern Stack Developer, Teacher and Researcher!</h3>
   <ul>
     <li>🔭 I’m currently working as a Backend Engineer.</li>
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
+    <li>🌱 I’m currently expanding my knowledge in Python and Machine Learning.</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
     <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
 	
-<div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
+<div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Malik-Ahtesham-Ahsan&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
 	
 <h2>Tech Stack</h2>
 
@@ -115,10 +112,8 @@
 </tr>
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/ahtesham-ahsan-8180b2267/"><img src="https://img.shields.io/badge/-ahteshamahsan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:Malik-Ahtesham-Ahsan632@gmail.com"><img src="https://img.shields.io/badge/-malikahtesham661@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <table>
@@ -129,23 +124,14 @@
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malik-Ahtesham-Ahsan&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Malik-Ahtesham-Ahsan&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malik-Ahtesham-Ahsan&theme=gruvbox"/></td>
   </tr>
 </table>
 	
 
 	
-## Personal Projects
 
-| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
-| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
-
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
 
 
 ## ⚡️Github Contributions
@@ -159,23 +145,19 @@
 </p>
 
 
-## 🚀Github Metrics
 
-<p align="center">
-    <img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
-</p>
     
 ## 🐛Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/Malik-Ahtesham-Ahsan/Malik-Ahtesham-Ahsan/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <br>
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
+  <img src="https://profile-counter.glitch.me/Malik-Ahtesham-Ahsan/count.svg">
 </p>
 		
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
