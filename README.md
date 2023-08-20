@@ -147,11 +147,7 @@
 
 
     
-## 🐛Github Magic Game
 
-<p align="center">
-  <img src="https://github.com/Malik-Ahtesham-Ahsan/Malik-Ahtesham-Ahsan/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
 
 <br>
 
@@ -159,5 +155,8 @@
   Views<br>
   <img src="https://profile-counter.glitch.me/Malik-Ahtesham-Ahsan/count.svg">
 </p>
+<h2 align>Spotify Playing 🎧</h2>
+    
+![Spotify](https://novatorem.vercel.app/api/spotify)
 		
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
