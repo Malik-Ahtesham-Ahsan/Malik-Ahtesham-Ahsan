@@ -12,7 +12,7 @@
 
   <h3>I'm a Mern Stack Developer, Teacher and Researcher!</h3>
   <ul>
-    <li>🔭 I’m currently working as a Backend Engineer.</li>
+    <li>🔭 I’m currently working as Full Stack Developer.</li>
     <li>🌱 I’m currently expanding my knowledge in Python and Machine Learning.</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
     <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
